@@ -1,0 +1,5 @@
+*.pdf
+__pycache__/
+*.py[cod]
+cliente/frontend/assets
+*$py.class

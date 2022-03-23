@@ -1,0 +1,12 @@
+#Data de los usuarios
+usuarios.csv
+
+#Data de las publicaciones
+publicaciones.csv
+
+#Data de los comentarios
+comentarios.csv
+
+__pycache__
+
+.DS_STORE

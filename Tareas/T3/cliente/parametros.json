@@ -1,0 +1,17 @@
+{
+    "server_port" : 9000,
+    "server_host" : "192.168.0.8", 
+    "path_logo_blanco": ["frontend", "assets", "Sprites", "Logos", "logo_blanco.png"],
+    "path_logo_negro": ["frontend", "assets", "Sprites", "Logos", "logo_negro.png"],
+    "path_logo_fondo_negro": ["frontend", "assets", "Sprites", "Logos", "logo_fondo_negro.png"],
+    "path_canicas_1": ["frontend", "assets", "Sprites", "Juego", "canicas-1.png"],
+    "path_canicas_2": ["frontend", "assets", "Sprites", "Juego", "canicas-2.png"],
+    "path_calavera_blanca": ["frontend", "assets", "Sprites", "Decoraciones", "calavera_blanca.png"],
+    "path_calavera_gris": ["frontend", "assets", "Sprites", "Decoraciones", "calavera_gris.png"],
+    "path_calavera_negra": ["frontend", "assets", "Sprites", "Decoraciones", "calavera_negra.png"],
+    "path_reloj": ["frontend", "assets", "Sprites", "Decoraciones", "reloj.png"],
+    "path_tarjeta": ["frontend", "assets", "Sprites", "Decoraciones", "tarjeta.png"],
+    "path_wones": ["frontend", "assets", "Sprites", "Decoraciones", "wones.png"],
+    "path_avatar_1": ["frontend", "assets", "Sprites", "Avatares", "Avatar-1.png"],
+    "path_avatar_2": ["frontend", "assets", "Sprites", "Avatares", "Avatar-2.png"]
+}

@@ -1,0 +1,6 @@
+{
+    "server_host" : "192.168.0.8",
+    "server_port" : 9000,
+    "min_caracteres": 1,
+    "max_caracteres": 12
+}

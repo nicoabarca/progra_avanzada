@@ -1,0 +1,12 @@
+__pycache__/
+.DS_STORE
+
+*.py[cod]
+*$py.class
+
+Enunciado (imprimible).pdf
+Enunciado.pdf
+
+frontend/assets
+
+backend/puntaje.txt
